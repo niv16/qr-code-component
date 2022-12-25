@@ -24,8 +24,8 @@ QR Code Component is implemented by me to practice my frontend skills.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-o_IsNB3aop)
-- Live Site URL: [Add live site URL here](https://qr-code-component-fm.netlify.app)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-o_IsNB3aop](https://www.frontendmentor.io/solutions/qr-code-component-o_IsNB3aop)
+- Live Site URL: [qr-code-component-fm.netlify.app](https://qr-code-component-fm.netlify.app)
 
 ## My process
 
@@ -51,6 +51,7 @@ To improve CSS Grid and Flex skills more to shrpen my skills to build more front
 
 - [Setting the height and width of the page](https://greggod.medium.com/css-do-not-put-height-100-on-the-body-html-e36bda3551b3) - This helped me to align the element in the center of the page.
 - [Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html) - This is Semantic HTML page I used as reference.
+- [HTML5 - Article](http://html5doctor.com/the-article-element/)
 
 ## Author
 
