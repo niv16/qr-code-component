@@ -10,6 +10,10 @@ body {
   height: 100vh;
 }
 
+.sr-only {
+  visibility: hidden;
+}
+
 .qr-element {
   margin: auto;
   max-height: 100%;
